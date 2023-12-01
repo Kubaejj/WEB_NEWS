@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+   
+}
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.datum{
+    color: rgb(88, 85, 85);
+    font-size: 15px;
+
+  
+}
+p{
+   
+    font-size: 25px;
+    font-weight: 400;
+    
+}
+
+.vypln{
+    background-color: rgb(214, 165, 123);
+    padding: 19px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 50px;
+    margin-top: 0.1%;
+}
+
+.okraje{
+    background-color: rgb(175, 155, 155);
+    margin-top: 0.1%;
+}
+.uvod{
+    color: red;
+    font-size: 55px;
+}
